@@ -208,9 +208,11 @@ nav i{
 }
 .card-container{
     position: relative;
+    display: flex;
 }
 .card-top{
+    
     height: 50vh;
     display: flex;
-    
+
 }
